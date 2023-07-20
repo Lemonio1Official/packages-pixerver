@@ -1,0 +1,23 @@
+{
+  "name": "pixerver",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "server",
+    "http",
+    "rest",
+    "restful",
+    "api",
+    "web"
+  ],
+  "author": "Pixel",
+  "license": "ISC",
+  "dependencies": {
+    "multiparty": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/multiparty": "^0.0.33",
+    "@types/node": "^20.4.1"
+  }
+}
